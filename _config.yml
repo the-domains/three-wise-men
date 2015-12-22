@@ -1,7 +1,7 @@
 name: 'Three Wise Men '
 favicon: null
-layout_spectrum: 0.7222328572534025
-typography_spectrum: 0.47125532128848135
+layout_spectrum: 1
+typography_spectrum: 0.40281
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.39724002429284155
-  lightness: 0.7527542621828616
-  saturation: 0.04905347991734743
-  rhythmicContrast: 0.34975073556415737
+    - '#ffffff'
+    - '#473256'
+    - '#ea1d5a'
+    - '#1dabea'
+    - '#807389'
+  brandStrength: 0.5
+  lightness: 0.875
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
