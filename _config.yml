@@ -2,6 +2,7 @@ name: Three Wise Men
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.40281
+title: Three Wise Men
 cta:
   domain: null
   bucket: null
